@@ -5,6 +5,7 @@
 // This file contains the JS functions for index.html
 
 'use strict'
+
 /**
  * This function calculates area of a triange.
  */
